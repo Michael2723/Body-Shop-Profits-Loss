@@ -1,0 +1,38 @@
+#employee-table {
+  text-align: left;
+  margin: 0 auto;
+}
+
+h3 .panel-title {
+  width: 100%;
+  cellpadding: 0;
+  cellspacing: 0;
+}
+
+tfoot {
+  font-weight: bold;
+  text-align: left;
+}
+
+.colWidth1 {
+  width: 65%;
+}
+
+.colWidth2 {
+  width: 35%;
+}
+
+
+#user-container {
+	float: right;
+
+.form-group {
+	padding-left: 10px;
+	padding-right: 15px;
+}	
+
+.lower-section {
+	padding-left: 10px;
+	padding-right: 15px;
+	
+}
